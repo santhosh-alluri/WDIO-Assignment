@@ -14,6 +14,7 @@ Please do run following commands(user should be on project directory)
 ## Running Tests
 Run the following command for running tests
    - npm run wdio
+   
 note: please do change "newemail" data in scenario outline example for every run
 
 
