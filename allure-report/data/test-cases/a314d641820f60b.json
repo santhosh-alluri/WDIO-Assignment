@@ -1,0 +1,58 @@
+{
+  "uid" : "a314d641820f60b",
+  "name" : "And I entered city as \"hyderabad\"",
+  "fullName" : "Register Page: Register with all fields.And I entered city as \"hyderabad\"",
+  "historyId" : "91318975037ff535189438143b826eb1",
+  "time" : {
+    "start" : 1620556028385,
+    "stop" : 1620556031547,
+    "duration" : 3162
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I entered city as \"hyderabad\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a314d641820f60b.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

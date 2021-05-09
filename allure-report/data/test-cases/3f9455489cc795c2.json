@@ -1,0 +1,58 @@
+{
+  "uid" : "3f9455489cc795c2",
+  "name" : "When I click on signin page",
+  "fullName" : "Product Page: Adding Products to cart.When I click on signin page",
+  "historyId" : "a29b3415cf358345cbb1fa7ee54f22dd",
+  "time" : {
+    "start" : 1620556003046,
+    "stop" : 1620556003219,
+    "duration" : 173
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on signin page"
+  }, {
+    "name" : "package",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f9455489cc795c2.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

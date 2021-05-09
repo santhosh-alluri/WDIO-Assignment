@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "6b753267129a7fec9f207b8b98d31bb1",
+    "name" : "Product Page: Adding Products to cart",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    }
+  }, {
+    "uid" : "0632d4fcc15563bda6fccaead22cbe1a",
+    "name" : "Register Page: Register with all fields",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 30,
+      "unknown" : 0,
+      "total" : 30
+    }
+  }, {
+    "uid" : "3d2e1add7f4ceeb276e9ed2335a5d7c1",
+    "name" : "Register Page: Register with required fields",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 25,
+      "unknown" : 0,
+      "total" : 25
+    }
+  } ]
+}

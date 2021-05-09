@@ -1,0 +1,58 @@
+{
+  "uid" : "e6709c7ba50726a0",
+  "name" : "And I will click on proceed to checkout",
+  "fullName" : "Product Page: Adding Products to cart.And I will click on proceed to checkout",
+  "historyId" : "9e04634d401c05b621e21585e97a562b",
+  "time" : {
+    "start" : 1620556055424,
+    "stop" : 1620556059563,
+    "duration" : 4139
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I will click on proceed to checkout"
+  }, {
+    "name" : "package",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6709c7ba50726a0.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

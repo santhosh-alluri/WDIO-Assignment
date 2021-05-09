@@ -1,0 +1,58 @@
+{
+  "uid" : "f470ff2dc500941",
+  "name" : "And I entered additionalInformation as \"8099223333\"",
+  "fullName" : "Register Page: Register with all fields.And I entered additionalInformation as \"8099223333\"",
+  "historyId" : "be48157db56b2d86773f5d1efabd61aa",
+  "time" : {
+    "start" : 1620556032215,
+    "stop" : 1620556032264,
+    "duration" : 49
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I entered additionalInformation as \"8099223333\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f470ff2dc500941.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

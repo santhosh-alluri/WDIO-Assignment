@@ -1,0 +1,58 @@
+{
+  "uid" : "c9515488ec1f0a50",
+  "name" : "And I enter email as \"anz1345101@gmail.com\"",
+  "fullName" : "Register Page: Register with required fields.And I enter email as \"anz1345101@gmail.com\"",
+  "historyId" : "aca5c255600a1c4d80ab0b6935333dc0",
+  "time" : {
+    "start" : 1620556048040,
+    "stop" : 1620556050497,
+    "duration" : 2457
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter email as \"anz1345101@gmail.com\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9515488ec1f0a50.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "d0f12bd8f58702c",
+  "name" : "Then I verify product as \"Faded Short Sleeve T-shirts\" on payment stage",
+  "fullName" : "Product Page: Adding Products to cart.Then I verify product as \"Faded Short Sleeve T-shirts\" on payment stage",
+  "historyId" : "b91164f6a1fb9c6f1c355a551131b5e5",
+  "time" : {
+    "start" : 1620556059563,
+    "stop" : 1620556062177,
+    "duration" : 2614
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify product as \"Faded Short Sleeve T-shirts\" on payment stage"
+  }, {
+    "name" : "package",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0f12bd8f58702c.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

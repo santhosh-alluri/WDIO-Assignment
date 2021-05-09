@@ -1,0 +1,58 @@
+{
+  "uid" : "a1f09a46d9cc1603",
+  "name" : "When I click on signin page",
+  "fullName" : "Register Page: Register with required fields.When I click on signin page",
+  "historyId" : "ff4fa4dc2810d10b0e6046a85cec6aba",
+  "time" : {
+    "start" : 1620556047868,
+    "stop" : 1620556048039,
+    "duration" : 171
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on signin page"
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1f09a46d9cc1603.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

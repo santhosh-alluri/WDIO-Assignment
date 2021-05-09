@@ -1,0 +1,58 @@
+{
+  "uid" : "16108fab3ee5d604",
+  "name" : "And I click on register button",
+  "fullName" : "Register Page: Register with all fields.And I click on register button",
+  "historyId" : "3d3b7d9ec193b0f389b2add9bc1aa9d6",
+  "time" : {
+    "start" : 1620556032453,
+    "stop" : 1620556032502,
+    "duration" : 49
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on register button"
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16108fab3ee5d604.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "bca8190c0734c457",
+  "name" : "And I entered address2 as \"address2\"",
+  "fullName" : "Product Page: Adding Products to cart.And I entered address2 as \"address2\"",
+  "historyId" : "483d7c1d9d91bd7b7c581e95eb31d876",
+  "time" : {
+    "start" : 1620556022144,
+    "stop" : 1620556022220,
+    "duration" : 76
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I entered address2 as \"address2\""
+  }, {
+    "name" : "package",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bca8190c0734c457.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

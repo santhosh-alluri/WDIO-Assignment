@@ -1,0 +1,58 @@
+{
+  "uid" : "d40f809af3877e86",
+  "name" : "Then I verify user first name as \"san\" and last name as \"all\"",
+  "fullName" : "Register Page: Register with required fields.Then I verify user first name as \"san\" and last name as \"all\"",
+  "historyId" : "72a3e6291e517011e8b1ca8261cd2bc7",
+  "time" : {
+    "start" : 1620556058468,
+    "stop" : 1620556060392,
+    "duration" : 1924
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I verify user first name as \"san\" and last name as \"all\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d40f809af3877e86.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "45f8a79b23348e1d",
+  "name" : "And I entered company name as \"anz\"",
+  "fullName" : "Register Page: Register with all fields.And I entered company name as \"anz\"",
+  "historyId" : "2c0b8a020ba4b09f6961be43e7d1c1f3",
+  "time" : {
+    "start" : 1620556027015,
+    "stop" : 1620556027080,
+    "duration" : 65
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I entered company name as \"anz\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45f8a79b23348e1d.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "a95b2f5c0f03c71b",
+  "name" : "And I enter DOB month as \"March\"",
+  "fullName" : "Register Page: Register with required fields.And I enter DOB month as \"March\"",
+  "historyId" : "893d5be35a1845425a430dcd086ebfee",
+  "time" : {
+    "start" : 1620556055933,
+    "stop" : 1620556056171,
+    "duration" : 238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter DOB month as \"March\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a95b2f5c0f03c71b.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "8fc7f1f6f121cd75",
+  "name" : "And I entered address2 as \"address2\"",
+  "fullName" : "Register Page: Register with all fields.And I entered address2 as \"address2\"",
+  "historyId" : "95b0b7e8830b8cd2b9df6eb5f0c836e6",
+  "time" : {
+    "start" : 1620556027141,
+    "stop" : 1620556027197,
+    "duration" : 56
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I entered address2 as \"address2\""
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with all fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fc7f1f6f121cd75.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

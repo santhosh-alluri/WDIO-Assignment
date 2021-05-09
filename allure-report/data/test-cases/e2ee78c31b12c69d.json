@@ -1,0 +1,58 @@
+{
+  "uid" : "e2ee78c31b12c69d",
+  "name" : "And I click on signout button",
+  "fullName" : "Register Page: Register with required fields.And I click on signout button",
+  "historyId" : "876e1ace6186d5a2ab7a99e217a59ae4",
+  "time" : {
+    "start" : 1620556060393,
+    "stop" : 1620556063451,
+    "duration" : 3058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on signout button"
+  }, {
+    "name" : "package",
+    "value" : "Register Page: Register with required fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2ee78c31b12c69d.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}

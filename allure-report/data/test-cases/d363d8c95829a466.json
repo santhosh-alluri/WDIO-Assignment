@@ -1,0 +1,58 @@
+{
+  "uid" : "d363d8c95829a466",
+  "name" : "And I enter DOB month as \"March\"",
+  "fullName" : "Product Page: Adding Products to cart.And I enter DOB month as \"March\"",
+  "historyId" : "5c94135557f81461f0bf66afafd6acf4",
+  "time" : {
+    "start" : 1620556018508,
+    "stop" : 1620556020494,
+    "duration" : 1986
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter DOB month as \"March\""
+  }, {
+    "name" : "package",
+    "value" : "Product Page: Adding Products to cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-90.0.4430.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d363d8c95829a466.json",
+  "parameterValues" : [ "Chrome-90.0.4430.93" ]
+}
