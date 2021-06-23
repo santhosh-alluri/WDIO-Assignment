@@ -43,7 +43,7 @@ pipeline {
         
     }
             post {
-                  always {
+                  cleanup {
                     sh 'docker stop zalenium'
                   }
                }
