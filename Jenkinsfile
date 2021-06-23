@@ -21,7 +21,7 @@ pipeline {
         
         stage("tests") {
             steps {
-                sh 'npm run wdio'  
+                sh 'npx wdio'  
             }
         }
         
