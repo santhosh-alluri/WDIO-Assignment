@@ -20,5 +20,11 @@ pipeline {
                 sh 'npm run wdio'  
             }
         }
+        
+         stage("report") {
+            steps {
+                sh 'npm run report'  
+            }
+        }
     }
 }
