@@ -41,4 +41,4 @@ Feature: Product Page
         
         Examples:data
                   | newemail           | title | first_name | last_name | passowrd | day | month | year | company | address1 | address2 | city      | state   | zipcode | country       | additionalInfo | home_phone | mobile_number | alias_name | productName                 |
-                  | anz34585@gmail.com | Mr.   | san        | all       | D@rk9    | 5   | March | 1990 | anz     | address1 | address2 | hyderabad | Alabama | 50007   | United States | 8099223333     | 8099223332 | 8099223334    | 8099223335 | Faded Short Sleeve T-shirts |
+                  | anz34585001@gmail.com | Mr.   | san        | all       | D@rk9    | 5   | March | 1990 | anz     | address1 | address2 | hyderabad | Alabama | 50007   | United States | 8099223333     | 8099223332 | 8099223334    | 8099223335 | Faded Short Sleeve T-shirts |
