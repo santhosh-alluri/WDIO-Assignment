@@ -19,5 +19,6 @@ pipeline {
             steps {
                 sh 'npm run wdio'  
             }
+        }
     }
 }
