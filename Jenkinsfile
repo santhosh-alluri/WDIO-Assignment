@@ -39,12 +39,11 @@ pipeline {
             steps {
                 sh 'npm run report'  
             }
-             
+         } 
              stage ('Stop Zalenium'){
                 steps{
                     sh 'docker stop zalenium'
                 }
-            }
-        }
+             }
     }
 }
