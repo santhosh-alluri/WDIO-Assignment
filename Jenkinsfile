@@ -16,8 +16,18 @@ pipeline {
             steps {
                 echo '$PATH'
                 sh 'npm install'
+                sh 'npm install wdio-allure-reporter --save-dev'
+                sh 'npm install -g allure-commandline --save-dev'
+                sh 'docker pull elgalu/selenium'
+                sh 'docker pull dosel/zalenium'
             }
         }
+        
+        stage ('Start Zalenium'){
+                steps{
+                    sh 'docker run --rm -ti --name zalenium -d -p 4444:4444 -e PULL_SELENIUM_IMAGE=true -v /var/run/docker.sock:/var/run/docker.sock -v /tmp/videos:/home/seluser/videos --privileged dosel/zalenium start'
+                }
+            }
         
         stage("tests") {
             steps {
@@ -28,6 +38,12 @@ pipeline {
          stage("report") {
             steps {
                 sh 'npm run report'  
+            }
+             
+             stage ('Stop Zalenium'){
+                steps{
+                    sh 'docker stop zalenium'
+                }
             }
         }
     }
