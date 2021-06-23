@@ -21,7 +21,7 @@ pipeline {
         
         stage("tests") {
             steps {
-                sh 'npx wdio'  
+                sh './node_modules/.bin/wdio run wdio.conf.ts'  
             }
         }
         
