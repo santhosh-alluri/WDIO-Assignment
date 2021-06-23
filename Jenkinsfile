@@ -5,6 +5,10 @@ pipeline {
     tools {
         nodejs "nodejs"
     }
+    
+    environment {
+         wdio = "/home/san/.nvm/versions/node/v15.12.0/bin/wdio/"
+    }
 
     stages {
 
