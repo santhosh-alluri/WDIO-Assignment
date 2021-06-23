@@ -4,7 +4,7 @@ pipeline {
 
     stages {
 
-        stages("scm") {
+        stage("scm") {
             steps {
                 sh 'npm install'
             }
