@@ -10,7 +10,7 @@ pipeline {
 
         stage("scm") {
             steps {
-                echo $PATH
+                echo '$PATH'
                 sh 'npm install'
             }
         }
