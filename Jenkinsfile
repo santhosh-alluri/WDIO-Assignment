@@ -14,5 +14,10 @@ pipeline {
                 sh 'npm install'
             }
         }
+        
+        stage("tests") {
+            steps {
+                sh 'npm run wdio'  
+            }
     }
 }
