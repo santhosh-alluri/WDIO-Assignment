@@ -17,7 +17,7 @@ pipeline {
             
             steps {
                 
-            build("test")
+            build
             }
         }
          
