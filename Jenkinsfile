@@ -14,7 +14,11 @@ pipeline {
 
     stages {
         stage("shared lib") {
+            
+            steps {
+                
             build()
+            }
         }
          
       }
