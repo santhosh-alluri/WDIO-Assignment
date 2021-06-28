@@ -1,4 +1,4 @@
-@Library('jenkinsSharedLib@master') _
+@Library('Jenkins-Shared-Lib@master') _
 
 pipeline {
 
