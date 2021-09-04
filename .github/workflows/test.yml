@@ -16,7 +16,7 @@ jobs:
       - name: Run JMeter Action
         uses: rbhadti94/apache-jmeter-action@v0.3.1
         with:
-          testFilePath: ../../sample_test.jmx
+          testFilePath: sample_test.jmx
           outputReportsFolder: reports/
           args: "--loglevel INFO"
 
