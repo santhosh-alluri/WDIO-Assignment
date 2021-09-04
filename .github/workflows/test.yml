@@ -18,4 +18,4 @@ jobs:
         with:
           testFilePath: sample_test.jmx
           outputReportsFolder: reports/
-          args: "--loglevel INFO"
+          args: "--loglevel INFO -JMyProperty=Value --jmeterlogconf=log.conf"
