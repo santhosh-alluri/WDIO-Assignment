@@ -19,3 +19,8 @@ jobs:
           testFilePath: sample_test.jmx
           outputReportsFolder: reports/
           args: "--loglevel INFO -JMyProperty=Value --jmeterlogconf=log.conf"
+          
+      - uses: actions/upload-artifact@v1
+        with:
+          name: jmeter-test-results
+          path: reports/
