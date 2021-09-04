@@ -1,0 +1,25 @@
+name: Test JMeter Action
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches: [master]
+
+jobs:
+  action_build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: JMeter Test
+        uses: QAInsights/PerfAction@v2.0
+        with:
+           test-plan-path: sample_test.jmx
+           args: ""
+          
+      - uses: actions/upload-artifact@v2
+        with:
+          name: jmeter-results
+          path: result.jtl
