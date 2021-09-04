@@ -1,1 +1,14 @@
+- name: Run JMeter Tests
+  uses: rbhadti94/apache-jmeter-action@v0.3.1
+  with:
+    testFilePath: tests/sample_test.jmx
+    outputReportsFolder: reports/
 
+# Use JMeter to run the JMX test case.
+# Modify the logging level and pass in some custom properties and config
+- name: Run JMeter Tests with modified logging and custom properties
+  uses: rbhadti94/apache-jmeter-action@v0.3.1
+  with:
+    testFilePath: tests/sample_test.jmx
+    outputReportsFolder: reports/
+    args: "--loglevel INFO -JMyProperty=Value --jmeterlogconf=log.conf"
