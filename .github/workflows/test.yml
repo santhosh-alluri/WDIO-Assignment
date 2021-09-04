@@ -19,8 +19,3 @@ jobs:
           testFilePath: sample_test.jmx
           outputReportsFolder: reports/
           args: "--loglevel INFO"
-
-      - uses: actions/upload-artifact@v1
-        with:
-          name: jmeter-test-results
-          path: reports/
